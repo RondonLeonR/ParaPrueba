@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1525962525 source:d:\rondon leon rodolfo\rondonrodolfo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Propietarios.h"
+	"Autos.h"
+
+1525958748 d:\rondon leon rodolfo\rondonrodolfo\propietarios.h
+
+1525962570 source:d:\rondon leon rodolfo\rondonrodolfo\propietarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Propietarios.h"
+
+1525962449 source:d:\rondon leon rodolfo\rondonrodolfo\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Autos.h"
+
+1525961535 d:\rondon leon rodolfo\rondonrodolfo\autos.h
+	"Propietarios.h"
+
