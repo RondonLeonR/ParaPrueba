@@ -8,10 +8,10 @@
 #define OCUP 1
 #define LIB  -1
 
-#define ALPHA_ROMEO 11
-#define FERRARI 22
-#define AUDI 33
-#define OTRO 44
+#define ALPHA_ROMEO 111
+#define FERRARI 222
+#define AUDI 333
+#define OTRO 444
 void eAutE_init( eAutosEstacionados listado[],int limite)
 {
     int i;

@@ -63,3 +63,43 @@
 	"Propietarios.h"
 	"SalidaAutos.h"
 
+1527112389 source:c:\users\user\desktop\utn\paraprueba-master\rondonrodolfo\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Propietarios.h"
+	"Autos.h"
+
+1526499309 c:\users\user\desktop\utn\paraprueba-master\rondonrodolfo\propietarios.h
+
+1526533415 c:\users\user\desktop\utn\paraprueba-master\rondonrodolfo\autos.h
+	"Propietarios.h"
+
+1527122396 source:c:\users\user\desktop\utn\paraprueba-master\rondonrodolfo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Propietarios.h"
+	"Autos.h"
+	"SalidaAutos.h"
+
+1527122237 c:\users\user\desktop\utn\paraprueba-master\rondonrodolfo\salidaautos.h
+	"Propietarios.h"
+	"Autos.h"
+
+1526537562 source:c:\users\user\desktop\utn\paraprueba-master\rondonrodolfo\propietarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Propietarios.h"
+
+1527122246 source:c:\users\user\desktop\utn\paraprueba-master\rondonrodolfo\salidaautos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Autos.h"
+	"Propietarios.h"
+	"SalidaAutos.h"
+
